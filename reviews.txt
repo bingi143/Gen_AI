@@ -1,0 +1,7 @@
+Product: Laptop
+Review: The performance is outstanding, and it handles multitasking with ease. The battery life is also impressive, lasting throughout the day without any issues.
+---END OF REVIEW---
+
+Product: Smartwatch
+Review: The smartwatch looks great, but the battery drains quickly, and the touch screen becomes unresponsive at times, which is frustrating.
+---END OF REVIEW---
